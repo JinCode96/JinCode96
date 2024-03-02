@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello-World!%20&fontSize=90)
 ### 안녕하세요 👋
 
-<a href="https://www.notion.so/6d21af1caeb44506904b6803132c0647" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="https://www.notion.so/6d21af1caeb44506904b6803132c0647" target="_blank"><img src="https://img.shields.io/badge/notion-#000000?style=flat&logo=notion&logoColor=#000000"/></a>
 
 <!--
 **kimwoo232800/kimwoo232800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

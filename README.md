@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>:wave: Hi, I'm Jinwoo! :wave:</h2>
+  <h1>:wave: Hi, I'm Jinwoo! :wave:</h1>
   
   <br/>
   <br/>

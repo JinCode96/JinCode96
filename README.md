@@ -49,6 +49,11 @@
   <br/>
   <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinCode96&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinCode96&layout=compact)
+
+  <br/>
+  <br/>
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JinCode96&show_icons=true&theme=radical)
 
 </div>
